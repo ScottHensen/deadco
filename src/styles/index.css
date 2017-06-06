@@ -1,0 +1,38 @@
+.jumbotron {
+  /*background-image: url("deadco.rocks/src/assets/posters/poster_20170527b.jpg");*/
+  background-image: url("https://storage.googleapis.com/deadco.rocks/src/assets/posters/poster_20170527b.jpg");
+  background-position: center;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 0;
+}
+#playlist, audio {
+  /*background:#666;*/
+  width: 100%;
+  padding-right: 3%;
+  padding-left: 3%;
+
+}
+ul {
+  list-style: none;
+  /*padding-right: 3%;
+  padding-left: 3%;*/
+}
+.active a {
+  color:#5DB0E6;
+  text-decoration:none;
+  background-color: #444;
+}
+li a {
+  color:#eeeedd;
+  background:#333;
+  padding:10px;
+  display:block;
+}
+li a:hover {
+  text-decoration:none;
+  background-color: #555;
+}
+/*li:nth-child(even) a {
+  background-color: #555;
+}*/
