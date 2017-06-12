@@ -1,10 +1,13 @@
 .jumbotron {
-  /*background-image: url("deadco.rocks/src/assets/posters/poster_20170527b.jpg");*/
-  background-image: url("https://storage.googleapis.com/deadco.rocks/src/assets/posters/poster_20170527b.jpg");
+  /*background-image: url("https://storage.googleapis.com/deadco.rocks/src/assets/posters/poster_20170527b.jpg");*/
   background-position: center;
   -webkit-background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 0;
+}
+#summerPoster {
+  /*background-image: url("http://deadco.show/src/assets/posters/poster_2017_summer.jpg");*/
+  background-image: url("../assets/posters/poster_2017_summer.jpg");
 }
 #playlist, audio {
   /*background:#666;*/
@@ -15,8 +18,6 @@
 }
 ul {
   list-style: none;
-  /*padding-right: 3%;
-  padding-left: 3%;*/
 }
 .active a {
   color:#5DB0E6;
@@ -36,3 +37,14 @@ li a:hover {
 /*li:nth-child(even) a {
   background-color: #555;
 }*/
+.show-card {
+  border: 2px solid #4fc08d;
+  border-radius: 4px;
+  padding: 5px;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+.poster-thumbnail {
+  width: 100%;
+  height: auto;
+}

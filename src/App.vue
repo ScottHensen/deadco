@@ -1,60 +1,60 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <h1></h1>
-    <h2>Essential Links</h2>
-    <ul>
-      <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank">Forum</a></li>
-      <li><a href="https://gitter.im/vuejs/vue" target="_blank">Gitter Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank">Twitter</a></li>
-    </ul>
-    <h2>Ecosystem</h2>
-    <ul>
-      <li><a href="http://router.vuejs.org/" target="_blank">vue-router</a></li>
-      <li><a href="http://vuex.vuejs.org/" target="_blank">vuex</a></li>
-      <li><a href="http://vue-loader.vuejs.org/" target="_blank">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
-    </ul>
+    <div class="jumbotron" id="summerPoster">
+      <h1>{{title}}</h1>
+      <p>{{subtitle}}</p>
+    </div>
+    <br />
+    <Show
+      v-for="show in shows"
+      v-bind:passed-show="show"
+      v-bind:index="index"
+      key="index"
+    />
   </div>
 </template>
 
 <script>
-export default {
-  name: 'app',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
+  import Show from './components/Show.vue'
+
+  export default {
+    name: 'app',
+    data() {
+      return {
+        title: 'Dead & Company',
+        subtitle: 'Summer 2017',
+        shows: [
+            {
+              date: "20170527",
+              day: "Saturday",
+              venue: "MGM Grand Garden Arena",
+              city: "Las Vegas",
+              state: "NV",
+              poster: "./src/assets/posters/poster_20170527b_lasvegas.jpg"
+            },
+            {
+              date: "20170528",
+              day: "Sunday",
+              venue: "Ak-Chin Pavillion",
+              city: "Phoenix",
+              state: "AZ",
+              poster: "./src/assets/posters/poster_20170528_phoenix.jpg"
+
+            },
+            {
+              date: "20170531",
+              day: "Wednesday",
+              venue: "Hollywood Bowl",
+              city: "Los Angeles",
+              state: "CA",
+              poster: "./src/assets/posters/poster_20170531_hollywood.jpg"
+
+            }
+        ]
+      }
+    },
+    components: {
+      Show
     }
   }
-}
 </script>
-
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-
-h1, h2 {
-  font-weight: normal;
-}
-
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-
-a {
-  color: #42b983;
-}
-</style>
