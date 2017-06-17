@@ -1,13 +1,15 @@
 .jumbotron {
-  /*background-image: url("https://storage.googleapis.com/deadco.rocks/src/assets/posters/poster_20170527b.jpg");*/
   background-position: center;
   -webkit-background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 0;
 }
-#summerPoster {
+.jumbotron#summerPoster {
   /*background-image: url("http://deadco.show/src/assets/posters/poster_2017_summer.jpg");*/
   background-image: url("../assets/posters/poster_2017_summer.jpg");
+}
+.jumbotron#show-20170527 {
+  background-image: url("../assets/posters/poster_20170527b_lasvegas.jpg");
 }
 #playlist, audio {
   /*background:#666;*/
