@@ -29,7 +29,8 @@
               venue: "MGM Grand Garden Arena",
               city: "Las Vegas",
               state: "NV",
-              poster: "./src/assets/posters/poster_20170527b_lasvegas.jpg"
+              // poster: "./src/assets/posters/poster_20170527b_lasvegas.jpg"
+              poster: "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170527b_lasvegas.jpg"
             },
             {
               date: "20170528",
@@ -37,8 +38,8 @@
               venue: "Ak-Chin Pavillion",
               city: "Phoenix",
               state: "AZ",
-              poster: "./src/assets/posters/poster_20170528_phoenix.jpg"
-
+              // poster: "./src/assets/posters/poster_20170528_phoenix.jpg"
+              poster: "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170528_phoenix.jpg"
             },
             {
               date: "20170531",
@@ -46,7 +47,8 @@
               venue: "Hollywood Bowl",
               city: "Los Angeles",
               state: "CA",
-              poster: "./src/assets/posters/poster_20170531_hollywood.jpg"
+              // poster: "./src/assets/posters/poster_20170531_hollywood.jpg"
+              poster: "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170531_hollywood.jpg"
 
             }
         ]

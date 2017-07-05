@@ -11,24 +11,24 @@
     </audio>
     <ul id="playlist">
       <li class="active">
-          <a href="./src/assets/music/20170527_lasvegas/deadco170527d1_01_The_Music_Never_Stopped.mp3">The Music Never Stopped </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d1_02_Dire_Wolf.mp3"              >Dire Wolf               </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d1_03_Jack_Straw.mp3"             >Jack Straw              </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d1_04_Loser.mp3"                  >Loser                   </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d1_05_Friend_Of_The_Devil.mp3"    >Friend of the Devil     </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d1_06_BrownEyed_Women.mp3"        >Brown-Eyed Women        </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d1_07_Bird_Song.mp3"              >Bird Song               </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d2_01_Playin_In_The_Band.mp3"     >Playin in the Band      </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d2_02_Deal.mp3"                   >Deal                    </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d2_03_China_Cat_Sunflower.mp3"    >China Cat Sunflower     </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d2_04_I_Know_You_Rider.mp3"       >I Know You Rider        </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d2_05_Drums.mp3"                  >Drums                   </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d2_06_Space.mp3"                  >Space                   </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d3_01_The_Other_One.mp3"          >The Other One           </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d3_02_Black_Peter.mp3"            >Black Peter             </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d3_03_One_More_Saturday_Night.mp3">One More Saturday Night </a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d3_04_Knockin_On_Heavens_Door.mp3">Knockin on Heaven's Door</a></li>
-      <li><a href="./src/assets/music/20170527_lasvegas/deadco170527d3_05_Playin_In_The_Band.mp3"     >Playin in the Band      </a></li>
+          <a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_01_The_Music_Never_Stopped.mp3">The Music Never Stopped </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_02_Dire_Wolf.mp3"              >Dire Wolf               </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_03_Jack_Straw.mp3"             >Jack Straw              </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_04_Loser.mp3"                  >Loser                   </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_05_Friend_Of_The_Devil.mp3"    >Friend of the Devil     </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_06_BrownEyed_Women.mp3"        >Brown-Eyed Women        </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_07_Bird_Song.mp3"              >Bird Song               </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_01_Playin_In_The_Band.mp3"     >Playin in the Band      </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_02_Deal.mp3"                   >Deal                    </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_03_China_Cat_Sunflower.mp3"    >China Cat Sunflower     </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_04_I_Know_You_Rider.mp3"       >I Know You Rider        </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_05_Drums.mp3"                  >Drums                   </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_06_Space.mp3"                  >Space                   </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_01_The_Other_One.mp3"          >The Other One           </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_02_Black_Peter.mp3"            >Black Peter             </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_03_One_More_Saturday_Night.mp3">One More Saturday Night </a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_04_Knockin_On_Heavens_Door.mp3">Knockin on Heaven's Door</a></li>
+      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_05_Playin_In_The_Band.mp3"     >Playin in the Band      </a></li>
     </ul>
   </div>
 </template>
