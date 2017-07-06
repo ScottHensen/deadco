@@ -11,11 +11,10 @@
   background-image: url("https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170527b_lasvegas.jpg");
 }
 #playlist, audio {
-  /*background:#666;*/
   width: 100%;
   padding-right: 3%;
   padding-left: 3%;
-
+  font-size: 24px;
 }
 ul {
   list-style: none;
@@ -35,9 +34,26 @@ li a:hover {
   text-decoration:none;
   background-color: #555;
 }
-/*li:nth-child(even) a {
-  background-color: #555;
+/*@include media-breakpoint-up(sm) {
+  @media (min-width: 800px){
+  #playlist {
+    font-size: 24px;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  #playlist {
+    font-size: 20px;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  #playlist {
+    font-size: 38px;
+  }
 }*/
+
+
 .show-card {
   border: 2px solid #4fc08d;
   border-radius: 4px;
