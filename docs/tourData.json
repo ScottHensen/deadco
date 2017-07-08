@@ -1,0 +1,29 @@
+{
+  "tour": "Summer 2017",
+  "shows": [
+    {
+      "date": "20170527",
+      "day": "Saturday",
+      "venue": "MGM Grand Garden Arena",
+      "city": "Las Vegas",
+      "state": "NV",
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170527b_lasvegas.jpg"
+    },
+    {
+      "date": "20170528",
+      "day": "Sunday",
+      "venue": "Ak-Chin Pavillion",
+      "city": "Phoenix",
+      "state": "AZ",
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170528_phoenix.jpg"
+    },
+    {
+      "date": "20170531",
+      "day": "Wednesday",
+      "venue": "Hollywood Bowl",
+      "city": "Los Angeles",
+      "state": "CA",
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170531_hollywood.jpg"
+    }
+  ]
+}

@@ -1,7 +1,17 @@
 FROM node
 WORKDIR /app
+COPY package.json /app
+RUN npm install
 COPY . /app
-EXPOSE 8080
+ENV NODE_ENV production
+ENV PORT 8000
+EXPOSE 8000
+CMD ["npm", "start"]
+
+#FROM node
+#WORKDIR /app
+#COPY . /app
+#EXPOSE 8080
 
 #####################################################
 #FROM nginx
