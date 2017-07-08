@@ -1,8 +1,6 @@
 <template>
   <div class="show-card col-md-4">
-    <router-link to="/show">
-    <!-- <router-link to="/show/:show-id="show.date""> -->
-    <!-- <div class="show-card" @click="playShow"> -->
+    <router-link :to="{ name: 'show', params: { id: show.date } }">
       <div class="card-block" v-bind:id="show.date">
         <div class="card-poster col-md-6">
           <img class="poster-thumbnail" v-bind:src="show.poster" alt="poster">

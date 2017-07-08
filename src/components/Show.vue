@@ -3,10 +3,11 @@
     <div class="jumbotron" id="show-20170527">
       <h1>Las Vegas, NV</h1>
       <p>Saturday, May 27, 2017</p>
+      <p>{{$route.params.id}}</p>
       <p><router-link to="/">home</router-link></p>
     </div>
     <audio id="audio" preload="auto" tabindex="0" controls="" >
-      <source src="./src/assets/music/20170527_lasvegas/deadco170527d1_01_The_Music_Never_Stopped.mp3" type="audio/mpeg">
+      <source src="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_01_The_Music_Never_Stopped.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
     <ul id="playlist">
@@ -35,8 +36,10 @@
 
 <script>
   export default {
+    // props: ['id'],
     data() {
       return {
+        id: ""
       }
     },
     methods: {
