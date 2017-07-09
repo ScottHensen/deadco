@@ -3,27 +3,207 @@
   "shows": [
     {
       "date": "20170527",
-      "day": "Saturday",
       "venue": "MGM Grand Garden Arena",
       "city": "Las Vegas",
       "state": "NV",
-      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170527b_lasvegas.jpg"
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170527b_lasvegas.jpg",
+      "sets": [
+        {
+          "songs": [
+            {
+              "title": "The Music Never Stopped",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_01_The_Music_Never_Stopped.mp3"
+            },
+            {
+              "title": "Dire Wolf",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_02_Dire_Wolf.mp3"
+            },
+            {
+              "title": "Jack Straw",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_03_Jack_Straw.mp3"
+            },
+            {
+              "title": "Loser",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_04_Loser.mp3"
+            },
+            {
+              "title": "Friend of the Devil",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_05_Friend_Of_The_Devil.mp3"
+            },
+            {
+              "title": "Brown-Eyed Women",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_06_BrownEyed_Women.mp3"
+            },
+            {
+              "title": "Bird Song",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_07_Bird_Song.mp3"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Playin in the Band",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_01_Playin_In_The_Band.mp3"
+            },
+            {
+              "title": "Deal",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_02_Deal.mp3"
+            },
+            {
+              "title": "China Cat Sunflower",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_03_China_Cat_Sunflower.mp3"
+            },
+            {
+              "title": "I Know You Rider",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_04_I_Know_You_Rider.mp3"
+            },
+            {
+              "title": "Drums",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_05_Drums.mp3"
+            },
+            {
+              "title": "Space",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_06_Space.mp3"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "The Other One",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_01_The_Other_One.mp3"
+            },
+            {
+              "title": "Black Peter",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_02_Black_Peter.mp3"
+            },
+            {
+              "title": "One More Saturday Night",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_03_One_More_Saturday_Night.mp3"
+            },
+            {
+              "title": "Knockin on Heaven's Door",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_04_Knockin_On_Heavens_Door.mp3"
+            },
+            {
+              "title": "Playin in the Band",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_05_Playin_In_The_Band.mp3"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "20170528",
-      "day": "Sunday",
       "venue": "Ak-Chin Pavillion",
       "city": "Phoenix",
       "state": "AZ",
-      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170528_phoenix.jpg"
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170528_phoenix.jpg",
+      "sets": [
+        {
+          "songs": [
+            {
+              "title": "Feel Like a Stranger",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d1_01_Feel_Like_A_Stranger.mp3"
+            },
+            {
+              "title": "Bertha",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d1_02_Bertha.mp3"
+            },
+            {
+              "title": "New Minglewood Blues",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d1_03_New_Minglewood_Blues.mp3"
+            },
+            {
+              "title": "Cassidy",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d1_04_Cassidy.mp3"
+            },
+            {
+              "title": "Peggy-O",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d1_05_PeggyO.mp3"
+            },
+            {
+              "title": "Loose Lucy",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d1_06_Loose_Lucy.mp3"
+            },
+            {
+              "title": "Sugaree",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d1_07_Sugaree.mp3"
+            },
+            {
+              "title": "Samson and Delilah",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d1_08_Samson_And_Delilah.mp3"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Lost Sailor",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d2_01_Lost_Sailor.mp3"
+            },
+            {
+              "title": "Saint of Circumstance",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d2_02_Saint_of_Circumstance.mp3"
+            },
+            {
+              "title": "Crazy Fingers",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d2_03_Crazy_Fingers.mp3"
+            },
+            {
+              "title": "Scarlet Begonias",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d2_04_Scarlet_Begonias.mp3"
+            },
+            {
+              "title": "Fire on the Mountain",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d2_05_Fire_On_The_Mountain.mp3"
+            },
+            {
+              "title": "Drums",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d2_06_Drums.mp3"
+            },
+            {
+              "title": "Space",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d2_07_Space.mp3"
+            },
+            {
+              "title": "Dear Prudence",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d2_08_Dear_Prudence.mp3"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Casey Jones",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d3_01_Casey_Jones.mp3"
+            },
+            {
+              "title": "Touch of Grey",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170528_phoenix/deadco170528d3_02_Touch_of_Grey.mp3"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "20170531",
-      "day": "Wednesday",
       "venue": "Hollywood Bowl",
       "city": "Los Angeles",
       "state": "CA",
-      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170531_hollywood.jpg"
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170531_hollywood.jpg",
+      "sets": [
+        {
+          "songs": []
+        },
+        {
+          "songs": []
+        },
+        {
+          "songs": []
+        }
+      ]
     }
   ]
 }

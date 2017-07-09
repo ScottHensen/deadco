@@ -7,7 +7,6 @@
         </div>
         <div class="card-details col-md-6">
           <h4 class="card-title">{{show.date}}</h4>
-          <p  class="card-text" >{{show.day}}</p>
           <p  class="card-text" >{{show.venue}}</p>
           <p  class="card-text" >{{show.city}}</p>
           <p  class="card-text" >{{show.state}}</p>

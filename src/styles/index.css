@@ -1,18 +1,30 @@
+/* common */
 .jumbotron {
   background-position: center;
   -webkit-background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 0;
+  padding-right: 3%;
+  padding-left: 3%;
 }
 .jumbotron#summerPoster {
   background-image: url("https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_2017_summer.jpg");
 }
-[id='20170527'].jumbotron {
-  background-image: url("https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170527b_lasvegas.jpg");
+
+/* Tour */
+.show-card {
+  border: 2px solid #4fc08d;
+  border-radius: 4px;
+  padding: 5px;
+  padding-bottom: 10px;
+  cursor: pointer;
 }
-[id='20170528'].jumbotron {
-  background-image: url("https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170528_phoenix.jpg");
+.poster-thumbnail {
+  width: 100%;
+  height: auto;  /*TODO:  fix this */
 }
+
+/* Show */
 #playlist, audio {
   width: 100%;
   padding-right: 3%;
@@ -43,28 +55,13 @@ li a:hover {
     font-size: 24px;
   }
 }
-
 @include media-breakpoint-up(md) {
   #playlist {
     font-size: 20px;
   }
 }
-
 @include media-breakpoint-up(lg) {
   #playlist {
     font-size: 38px;
   }
 }*/
-
-
-.show-card {
-  border: 2px solid #4fc08d;
-  border-radius: 4px;
-  padding: 5px;
-  padding-bottom: 10px;
-  cursor: pointer;
-}
-.poster-thumbnail {
-  width: 100%;
-  height: auto;
-}

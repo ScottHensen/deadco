@@ -1,41 +1,43 @@
 <template>
   <div>
-    <div class="jumbotron" :id="show.date">
+    <div class="jumbotron" :id="show.date" :style="{ backgroundImage: 'url(' + show.poster + ')' }" >
       <h1>{{show.city}}</h1>
       <p>{{show.venue}}</p>
       <p>{{formattedShowDate}}</p>
       <p><router-link to="/"><img src="../assets/img/ruby_slippers.png" alt="home" height="42" width="42"></router-link></p>
     </div>
+
     <audio id="audio" preload="auto" tabindex="0" controls="" >
       <source src="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_01_The_Music_Never_Stopped.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
+
+<!-- TODO:  this is stupid; make it a v-for set, then v-for song -->
     <ul id="playlist">
-      <li class="active">
-          <a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_01_The_Music_Never_Stopped.mp3">The Music Never Stopped </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_02_Dire_Wolf.mp3"              >Dire Wolf               </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_03_Jack_Straw.mp3"             >Jack Straw              </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_04_Loser.mp3"                  >Loser                   </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_05_Friend_Of_The_Devil.mp3"    >Friend of the Devil     </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_06_BrownEyed_Women.mp3"        >Brown-Eyed Women        </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_07_Bird_Song.mp3"              >Bird Song               </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_01_Playin_In_The_Band.mp3"     >Playin in the Band      </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_02_Deal.mp3"                   >Deal                    </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_03_China_Cat_Sunflower.mp3"    >China Cat Sunflower     </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_04_I_Know_You_Rider.mp3"       >I Know You Rider        </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_05_Drums.mp3"                  >Drums                   </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d2_06_Space.mp3"                  >Space                   </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_01_The_Other_One.mp3"          >The Other One           </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_02_Black_Peter.mp3"            >Black Peter             </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_03_One_More_Saturday_Night.mp3">One More Saturday Night </a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_04_Knockin_On_Heavens_Door.mp3">Knockin on Heaven's Door</a></li>
-      <li><a href="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d3_05_Playin_In_The_Band.mp3"     >Playin in the Band      </a></li>
+      <Song
+        v-for="(song, index) in show.sets[0].songs"
+        v-bind:passed-song="song"
+        key="index"
+      />
+      <Song
+        v-for="(song, index) in show.sets[1].songs"
+        v-bind:passed-song="song"
+        key="index"
+      />
+      <Song
+        v-for="(song, index) in show.sets[2].songs"
+        v-bind:passed-song="song"
+        key="index"
+      />
     </ul>
+
   </div>
 </template>
 
 <script>
   import moment from 'moment'
+  import Song   from './Song.vue'
+
   export default {
     props: ['show'],
     data() {
@@ -46,6 +48,9 @@
     methods: {
         init: function() {
           this.formattedShowDate = moment(this.show.date,"YYYYMMDD").format('dddd, MMMM Do YYYY');
+          $('ul#playlist li:first').addClass("active");
+
+          //TODO:  all this audio player shit should be in its own file
           var current  = 0;
           var audio    = $('#audio');
           var playlist = $('#playlist');
@@ -82,8 +87,10 @@
           }
         }
     },
+    components: {
+      Song
+    },
     mounted: function() {
-      // this.show = this.passedShow;
       this.init();
     }
   }
