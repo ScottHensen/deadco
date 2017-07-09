@@ -1,10 +1,10 @@
 <template>
   <div>
-    <div class="jumbotron" id="show-20170527">
-      <h1>Las Vegas, NV</h1>
-      <p>Saturday, May 27, 2017</p>
-      <p>{{$route.params.id}}</p>
-      <p><router-link to="/">home</router-link></p>
+    <div class="jumbotron" :id="show.date">
+      <h1>{{show.city}}</h1>
+      <p>{{show.venue}}</p>
+      <p>{{formattedShowDate}}</p>
+      <p><router-link to="/"><img src="../assets/img/ruby_slippers.png" alt="home" height="42" width="42"></router-link></p>
     </div>
     <audio id="audio" preload="auto" tabindex="0" controls="" >
       <source src="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_01_The_Music_Never_Stopped.mp3" type="audio/mpeg">
@@ -35,22 +35,24 @@
 </template>
 
 <script>
+  import moment from 'moment'
   export default {
-    // props: ['id'],
+    props: ['show'],
     data() {
       return {
-        id: ""
+        formattedShowDate: ""
       }
     },
     methods: {
         init: function() {
+          this.formattedShowDate = moment(this.show.date,"YYYYMMDD").format('dddd, MMMM Do YYYY');
           var current  = 0;
           var audio    = $('#audio');
           var playlist = $('#playlist');
           var tracks   = playlist.find('li a');
           var len      = tracks.length - 1;
           var link;
-          audio[0].volume = .30;
+          audio[0].volume = .50;
           audio[0].play();
 
           playlist.find('a').click(function (e) {
@@ -81,6 +83,7 @@
         }
     },
     mounted: function() {
+      // this.show = this.passedShow;
       this.init();
     }
   }

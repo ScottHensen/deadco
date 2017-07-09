@@ -7,8 +7,11 @@
 .jumbotron#summerPoster {
   background-image: url("https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_2017_summer.jpg");
 }
-.jumbotron#show-20170527 {
+[id='20170527'].jumbotron {
   background-image: url("https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170527b_lasvegas.jpg");
+}
+[id='20170528'].jumbotron {
+  background-image: url("https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170528_phoenix.jpg");
 }
 #playlist, audio {
   width: 100%;

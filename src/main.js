@@ -11,7 +11,8 @@ const router = new VueRouter({
   mode: 'history',
   routes: [
     { path: '/', component: Tour },
-    { path: '/show/:id', name: 'show', component: Show }  ]
+    { path: '/show/:show', name: 'show', component: Show, props: true }
+  ]
 })
 
 new Vue({
