@@ -1130,6 +1130,192 @@
           ]
         }
       ]
+    },
+    {
+      "date": "20170617",
+      "venue": "Fenway Park",
+      "city": "Boston",
+      "state": "MA",
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170617_boston.jpg",
+      "sets": [
+        {
+          "songs": [
+            {
+              "title": "Music Never Stopped",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s1t01-music.ogg"
+            },
+            {
+              "title": "Cold Rain and Snow",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s1t02-cold_rain_and_snow.ogg"
+            },
+            {
+              "title": "Me and My Uncle",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s1t03-uncle.ogg"
+            },
+            {
+              "title": "Big Boss Man",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s1t04-bossman.ogg"
+            },
+            {
+              "title": "Ramble on Rose",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s1t05-ramble.ogg"
+            },
+            {
+              "title": "Sugaree",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s1t06-sugaree.ogg"
+            },
+            {
+              "title": "Passenger",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s1t07-passenger.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Dancin in the Streets",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s2t01-dancin.ogg"
+            },
+            {
+              "title": "Help on the Way > Slipknot!",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s2t02-help_slip.ogg"
+            },
+            {
+              "title": "Estimated Prophet >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s2t03-estimated.ogg"
+            },
+            {
+              "title": "Eyes of the World > Jam >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s2t04-Eyes_jam.ogg"
+            },
+            {
+              "title": "Drums >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s2t05-drums.ogg"
+            },
+            {
+              "title": "Space >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s2t06-space.ogg"
+            },
+            {
+              "title": "Eyes reprise >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s2t07-eyes.ogg"
+            },
+            {
+              "title": "I Need a Miracle >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s2t08-miracle.ogg"
+            },
+            {
+              "title": "Standing on the Moon >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s2t09-standing_on_the_moon.ogg"
+            },
+            {
+              "title": "Franklin's Tower",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s2t10-franklins.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Black Muddy River",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s2t11-BMriver.ogg"
+            },
+            {
+              "title": "One More Saturday Night",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170617_boston/s2t12-sat_night.ogg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "20170618",
+      "venue": "Fenway Park",
+      "city": "Boston",
+      "state": "MA",
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170618_boston.jpg",
+      "sets": [
+        {
+          "songs": [
+            {
+              "title": "Samson and Delilah",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set01t01.ogg"
+            },
+            {
+              "title": "Brown-Eyed Women",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set01t02.ogg"
+            },
+            {
+              "title": "Big River",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set01t03.ogg"
+            },
+            {
+              "title": "Candyman",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set01t04.ogg"
+            },
+            {
+              "title": "Let It Grow",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set01t05.ogg"
+            },
+            {
+              "title": "Friend of the Devil* >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set01t06.ogg"
+            },
+            {
+              "title": "Dark Star pt.1* >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set01t07.ogg"
+            },
+            {
+              "title": "Ripple*",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set01t08.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Truckin >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set02t01.ogg"
+            },
+            {
+              "title": "Fire on the Mountain >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set02t02.ogg"
+            },
+            {
+              "title": "St. Stephen >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set02t03.ogg"
+            },
+            {
+              "title": "Drums > Space >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set02t04.ogg"
+            },
+            {
+              "title": "Dark Star pt.2 >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set02t05.ogg"
+            },
+            {
+              "title": "Days Between >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set02t06.ogg"
+            },
+            {
+              "title": "Not Fade Away",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set02t07.ogg"
+            },
+            {
+              "title": "Encore Crowd",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set02t08.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Brokedown Palace",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170618_boston/dco2017.06.18.mg21.set02t09.ogg"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
