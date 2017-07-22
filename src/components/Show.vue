@@ -90,6 +90,9 @@
     components: {
       Song
     },
+    created: function() {
+      window.scrollTo(0,0);
+    },
     mounted: function() {
       this.init();
     }
