@@ -45,7 +45,12 @@
     transform: translateY(-50%);*/
   }
 }
-
+.show-date span {
+  display: block;
+}
+.card-text {
+  margin: 0 0 2px;
+}
 /* Show */
 #playlist, audio {
   width: 100%;
