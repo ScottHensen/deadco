@@ -18,10 +18,32 @@
   padding: 5px;
   padding-bottom: 10px;
   cursor: pointer;
+  min-height:240px;
 }
 .poster-thumbnail {
   width: 100%;
-  height: auto;  /*TODO:  fix this */
+  max-height: 80%;
+}
+@media screen and (min-width: 768px) {
+  .show-card {
+    height: 680px;
+  }
+  .poster-thumbnail {
+    max-height: 660px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .show-card {
+    height: 240px;
+  }
+  .poster-thumbnail {
+    max-height: 220px;
+    /*position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);*/
+  }
 }
 
 /* Show */

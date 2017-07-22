@@ -1,5 +1,5 @@
 <template>
-  <div class="show-card col-md-4">
+  <div class="show-card col-sm-6 col-md-4 col-lg-3">
     <router-link :to="{ name: 'show', params: { show: show } }">
       <div class="card-block" v-bind:id="show.date">
         <div class="card-poster col-md-6">
