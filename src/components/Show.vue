@@ -8,7 +8,8 @@
     </div>
 
     <audio id="audio" preload="auto" tabindex="0" controls="" >
-      <source src="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_01_The_Music_Never_Stopped.mp3" type="audio/mpeg">
+      <!-- <source src="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_01_The_Music_Never_Stopped.mp3" type="audio/mpeg"> -->
+      <source :src="show.sets[0].songs[0].file" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 
@@ -57,7 +58,7 @@
           var tracks   = playlist.find('li a');
           var len      = tracks.length - 1;
           var link;
-          audio[0].volume = .50;
+          audio[0].volume = .80;
           audio[0].play();
 
           playlist.find('a').click(function (e) {
