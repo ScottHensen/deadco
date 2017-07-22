@@ -1,16 +1,33 @@
 /* common */
 .jumbotron {
-  background-position: center;
-  -webkit-background-size: cover;
-  background-repeat: no-repeat;
-  margin-bottom: 0;
-  padding-right: 3%;
-  padding-left: 3%;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+    padding-right: 3%;
+    padding-left: 3%;
 }
 .jumbotron#summerPoster {
-  background-image: url("https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_2017_summer.jpg");
+    background:
+      linear-gradient(
+        rgba(0,0,0,0),
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.2)
+      ),
+      url("https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_2017_summer.jpg");
+      background-position: center;
+      -webkit-background-size: cover;
+      background-repeat: no-repeat;
+      margin-bottom: 0;
+      padding-right: 3%;
+      padding-left: 3%;
 }
-
+.jumbotron h1 {
+  text-shadow: 2px 2px 4px black;
+}
+.jumbotron p {
+  text-shadow: 1px 1px 2px black;
+}
 /* Tour */
 .show-card {
   border: 2px solid #4fc08d;

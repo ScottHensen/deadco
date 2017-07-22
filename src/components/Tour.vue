@@ -1,8 +1,10 @@
 <template>
   <div id="app">
-    <div class="jumbotron" id="summerPoster">
-      <h1>{{title}}</h1>
-      <p>{{tour.tour}}</p>
+    <div class="wrapper">
+      <div class="jumbotron" id="summerPoster">
+        <h1>{{title}}</h1>
+        <p>{{tour.tour}}</p>
+      </div>
     </div>
     <br />
     <ShowSelection

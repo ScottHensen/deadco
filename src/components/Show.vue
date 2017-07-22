@@ -1,14 +1,15 @@
 <template>
   <div>
     <div class="jumbotron" :id="show.date" :style="{ backgroundImage: 'url(' + show.poster + ')' }" >
+    <!-- gradiation is good, but cover doesn't work...
+      <div class="jumbotron" :id="show.date"
+         :style="{ background: 'linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.6),rgba(0,0,0,0.2)),url(' + show.poster + ') no-repeat center' }" > -->
       <h1>{{show.city}}</h1>
       <p>{{show.venue}}</p>
       <p>{{formattedShowDate}}</p>
       <p><router-link to="/"><img src="../assets/img/ruby_slippers.png" alt="home" height="42" width="42"></router-link></p>
     </div>
-
     <audio id="audio" preload="auto" tabindex="0" controls="" >
-      <!-- <source src="https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170527_lasvegas/deadco170527d1_01_The_Music_Never_Stopped.mp3" type="audio/mpeg"> -->
       <source :src="show.sets[0].songs[0].file" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
