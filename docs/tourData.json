@@ -1316,6 +1316,608 @@
           ]
         }
       ]
+    },
+    {
+      "date": "20170622",
+      "venue": "Jiffy Lube Live",
+      "city": "Bristow",
+      "state": "VA",
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170622_bristow.jpg",
+      "sets": [
+        {
+          "songs": [
+            {
+              "title": "Shakedown Street",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s1t01.ogg"
+            },
+            {
+              "title": "Uncle John's Band",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s1t02.ogg"
+            },
+            {
+              "title": "Minglewood Blues",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s1t03.ogg"
+            },
+            {
+              "title": "Althea",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s1t04.ogg"
+            },
+            {
+              "title": "Peggy-O",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s1t05.ogg"
+            },
+            {
+              "title": "Bertha",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s1t06.ogg"
+            },
+            {
+              "title": "Women are Smarter",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s1t07.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Playin in the Band >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s2t01.ogg"
+            },
+            {
+              "title": "New Speedway Boogie",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s2t02.ogg"
+            },
+            {
+              "title": "He's Gone",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s2t03.ogg"
+            },
+            {
+              "title": "Fire on the Mountain",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s2t04.ogg"
+            },
+            {
+              "title": "Drums > Space",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s2t05.ogg"
+            },
+            {
+              "title": "A Love Supreme > Hard Rain",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s2t06.ogg"
+            },
+            {
+              "title": "Playin Reprise",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s2t07.ogg"
+            },
+            {
+              "title": "Throwin Stones",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s2t08.ogg"
+            },
+            {
+              "title": "U.S. Blues",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s2t09.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "U.S. Blues Reprise > Liberty",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170622_bristow/DCO2017-06-22s2t10.ogg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "20170624",
+      "venue": "Citi Field",
+      "city": "New York",
+      "state": "NY",
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170624_newyork.jpg",
+      "sets": [
+        {
+          "songs": [
+            {
+              "title": "Dancin in the Streets",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set1Track01.ogg"
+            },
+            {
+              "title": "Jack Straw",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set1Track02.ogg"
+            },
+            {
+              "title": "Here Comes Sunshine",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set1Track03.ogg"
+            },
+            {
+              "title": "Tennessee Jed",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set1Track04.ogg"
+            },
+            {
+              "title": "Cold Rain and Snow",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set1Track05.ogg"
+            },
+            {
+              "title": "Bird Song",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set1Track06.ogg"
+            },
+            {
+              "title": "One More Saturday Night",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set1Track07.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Crowd",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set2Track01.ogg"
+            },
+            {
+              "title": "Scarlet Begonias",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set2Track02.ogg"
+            },
+            {
+              "title": "Viola Lee Blues",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set2Track03.ogg"
+            },
+            {
+              "title": "Estimated Prophet",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set2Track04.ogg"
+            },
+            {
+              "title": "Comes a Time (first!)",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set2Track05.ogg"
+            },
+            {
+              "title": "Eyes of the World",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set2Track06.ogg"
+            },
+            {
+              "title": "Drums",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set2Track07.ogg"
+            },
+            {
+              "title": "Space",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set2Track08.ogg"
+            },
+            {
+              "title": "The Other One",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set2Track09.ogg"
+            },
+            {
+              "title": "Morning Dew",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set2Track10.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Touch of Grey",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set2Track11.ogg"
+            },
+            {
+              "title": "Johnny B. Goode",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170624_newyork/Set2Track12.ogg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "20170625",
+      "venue": "BB & T Pavillion",
+      "city": "Camden",
+      "state": "NJ",
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170625_camden.jpg",
+      "sets": [
+        {
+          "songs": [
+            {
+              "title": "Tuning",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d1t01.ogg"
+            },
+            {
+              "title": "Feel Like a Stranger >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d1t02.ogg"
+            },
+            {
+              "title": "Brown-Eyed Women",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d1t03.ogg"
+            },
+            {
+              "title": "Ramble on Rose",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d1t04.ogg"
+            },
+            {
+              "title": "They Love Each Other",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d1t05.ogg"
+            },
+            {
+              "title": "Little Red Rooster",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d1t06.ogg"
+            },
+            {
+              "title": "Big Boss Man",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d1t07.ogg"
+            },
+            {
+              "title": "Cumberland Blues",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d1t08.ogg"
+            },
+            {
+              "title": "Casey Jones",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d1t09.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Iko Iko",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d2t01.ogg"
+            },
+            {
+              "title": "Deal >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d2t02.ogg"
+            },
+            {
+              "title": "Help on the Way >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d2t03.ogg"
+            },
+            {
+              "title": "Slipknot!",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d2t04.ogg"
+            },
+            {
+              "title": "Franklin's Tower >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d2t05.ogg"
+            },
+            {
+              "title": "Drums >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d2t06.ogg"
+            },
+            {
+              "title": "Space >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d3t01.ogg"
+            },
+            {
+              "title": "The Wheel >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d3t02.ogg"
+            },
+            {
+              "title": "Stella Blue >",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d3t03.ogg"
+            },
+            {
+              "title": "Sugar Magnolia",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d3t04.ogg"
+            },
+            {
+              "title": "Encore Break",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d3t05.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Brokedown Palace",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170625_camden/DeadCo2017-06-25d3t06.ogg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "20170628",
+      "venue": "Blossom Music Center",
+      "city": "Cuyahoga Falls",
+      "state": "OH",
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170628_cuyahogafalls.jpg",
+      "sets": [
+        {
+          "songs": [
+            {
+              "title": "Hell in a Bucket",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set1t01.ogg"
+            },
+            {
+              "title": "Mississippi Half-Step",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set1t02.ogg"
+            },
+            {
+              "title": "Black-Throated Wind",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set1t03.ogg"
+            },
+            {
+              "title": "Row Jimmy",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set1t04.ogg"
+            },
+            {
+              "title": "Big River",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set1t05.ogg"
+            },
+            {
+              "title": "Cassidy",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set1t06.ogg"
+            },
+            {
+              "title": "Big Railroad Blues",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set1t07.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "China Cat Sunflower",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set2t01.ogg"
+            },
+            {
+              "title": "I Know You Rider",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set2t02.ogg"
+            },
+            {
+              "title": "He's Gone",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set2t03.ogg"
+            },
+            {
+              "title": "Truckin",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set2t04.ogg"
+            },
+            {
+              "title": "Drums",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set2t05.ogg"
+            },
+            {
+              "title": "Space",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set2t06.ogg"
+            },
+            {
+              "title": "I Need a Miracle",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set2t07.ogg"
+            },
+            {
+              "title": "Wharf Rat",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set2t08.ogg"
+            },
+            {
+              "title": "Good Lovin",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set2t09.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Black Muddy River",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170628_cuyahogafalls/deadco2017-06-28akg481set2t10.ogg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "20170630",
+      "venue": "Wrigley Field",
+      "city": "Chicago",
+      "state": "IL",
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170630_chicago.jpg",
+      "sets": [
+        {
+          "songs": [
+            {
+              "title": "Crowd",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set1t01.ogg"
+            },
+            {
+              "title": "The Music Never Stopped",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set1t02.ogg"
+            },
+            {
+              "title": "Bertha",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set1t03.ogg"
+            },
+            {
+              "title": "Me and My Uncle",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set1t04.ogg"
+            },
+            {
+              "title": "Sugaree",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set1t05.ogg"
+            },
+            {
+              "title": "Let it Grow",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set1t06.ogg"
+            },
+            {
+              "title": "Uncle John's Band",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set1t07.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Crowd",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t01.ogg"
+            },
+            {
+              "title": "Shakedown Street",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t02.ogg"
+            },
+            {
+              "title": "Dark Star v1",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t03.ogg"
+            },
+            {
+              "title": "St. Stephen",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t04.ogg"
+            },
+            {
+              "title": "China Doll",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t05.ogg"
+            },
+            {
+              "title": "Terrapin Station",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t06.ogg"
+            },
+            {
+              "title": "Uncle John Reprise",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t07.ogg"
+            },
+            {
+              "title": "Drums",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t08.ogg"
+            },
+            {
+              "title": "Space",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t09.ogg"
+            },
+            {
+              "title": "Standing on the Moon",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t10.ogg"
+            },
+            {
+              "title": "Help on the Way",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t11.ogg"
+            },
+            {
+              "title": "Slipknot!",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t12.ogg"
+            },
+            {
+              "title": "Franklin's Tower",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t13.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Ripple",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t14.ogg"
+            },
+            {
+              "title": "U.S. Blues",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170630_chicago/DeadCo2017-06-30.travitz.schoepsMK4v.fob.set2t15.ogg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "20170701",
+      "venue": "Wrigley Field",
+      "city": "Chicago",
+      "state": "IL",
+      "poster": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/posters/poster_20170701_chicago.jpg",
+      "sets": [
+        {
+          "songs": [
+            {
+              "title": "Crowd",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set1t01.ogg"
+            },
+            {
+              "title": "Cold Rain and Snow",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set1t02.ogg"
+            },
+            {
+              "title": "Jack Straw",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set1t03.ogg"
+            },
+            {
+              "title": "Tenessee Jed",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set1t04.ogg"
+            },
+            {
+              "title": "Ship of Fools",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set1t05.ogg"
+            },
+            {
+              "title": "Dark Star v2",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set1t06.ogg"
+            },
+            {
+              "title": "Friend of the Devil",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set1t07.ogg"
+            },
+            {
+              "title": "Althea",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set1t08.ogg"
+            },
+            {
+              "title": "Casey Jones",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set1t09.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Crowd",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t01.ogg"
+            },
+            {
+              "title": "Sugar Magnolia",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t02.ogg"
+            },
+            {
+              "title": "Dancing in the Streets",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t03.ogg"
+            },
+            {
+              "title": "Playing in the Band",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t04.ogg"
+            },
+            {
+              "title": "Comes a Time",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t05.ogg"
+            },
+            {
+              "title": "Scarlet Begonias",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t06.ogg"
+            },
+            {
+              "title": "Fire on the Mountain",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t07.ogg"
+            },
+            {
+              "title": "Drums",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t08.ogg"
+            },
+            {
+              "title": "Space",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t09.ogg"
+            },
+            {
+              "title": "The Other One",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t10.ogg"
+            },
+            {
+              "title": "Days Between",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t11.ogg"
+            },
+            {
+              "title": "Not Fade Away",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t12.ogg"
+            }
+          ]
+        },
+        {
+          "songs": [
+            {
+              "title": "Brokedown Palace",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t13.ogg"
+            },
+            {
+              "title": "Sunshine Daydream w/ fireworks",
+              "file": "https://s3-us-west-2.amazonaws.com/deadco.show/2017Summer/music/20170701_chicago/DeadCo2017-07-01.travitz.schoepsMK4v.fob.set2t14.ogg"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
